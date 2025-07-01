@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jem-computer-capacities-mcp-badge.png)](https://mseep.ai/app/jem-computer-capacities-mcp)
+
 # Capacities MCP Server
 
 An MCP (Model Context Protocol) server for [Capacities](https://capacities.io), providing seamless integration with your knowledge management system.
